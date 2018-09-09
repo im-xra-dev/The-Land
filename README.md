@@ -22,3 +22,5 @@ You can interact with some of the people in the other homes and earn more money,
 # Credits
 Most of the artwork, all the code and all the audio was created by me
 A few sprites were created by my friend, who at the time of making the game, went by the name swiss.blue
+
+# Fun Fact!  I just noticed that my profile pic is the origional ghost from The Land.
