@@ -1,0 +1,8 @@
+Ecto-Plasm: 5;
+Mysterious Essence: 1000;
+Satan Spawner Part: 100;
+Robo Lord Spawner Part: 100;
+Golden Staff: 75;
+Easter Bunny Statue: 200;
+
+                
