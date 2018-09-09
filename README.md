@@ -1,4 +1,6 @@
 # The-Land
+Note: I have not currently uploaded the servers code.
+
 The land was a game that I worked on during the start of 2017.  I had only just over 1 year experience, so before you tell me 'This save system is dumb', or 'the servers are stupid and insecure', I already know and wouldnt build a program like this now days.
 
 That said, I am still proud of this, despite its flaws as it was the first big project that I worked on without a tutorial to help start me off with the basic setting up render functions etc.
@@ -23,4 +25,6 @@ You can interact with some of the people in the other homes and earn more money,
 Most of the artwork, all the code and all the audio was created by me
 A few sprites were created by my friend, who at the time of making the game, went by the name swiss.blue
 
-# Fun Fact!  I just noticed that my profile pic is the origional ghost from The Land.
+# Fun Fact!
+I just noticed that my profile pic is the origional ghost from The Land.
+
