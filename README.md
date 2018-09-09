@@ -3,7 +3,7 @@ The land was a game that I worked on during the start of 2017.  I had only just 
 
 That said, I am still proud of this, despite its flaws as it was the first big project that I worked on without a tutorial to help start me off with the basic setting up render functions etc.
 
-I started working on it in Jan of 2017 and worked on it for a few months before stopping this project due to the age old problem of programmers never finishing side projects.
+I started working on it in Jan of 2017 and worked on it for a few months before stopping this project due to the age old problem of programmers never finishing side projects.  This was about the time that I made my first Ludum Dare Game, with the confidence I had gained from this.
 
 # Origin
 The idea for The Land came from a small game I had designed a few years prior (before knowing how to write code).  I stumbled across this and was like 'Hey, I should write this properly' and then began creating it.
