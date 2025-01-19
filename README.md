@@ -7,8 +7,10 @@ That said, I am still proud of this, despite its flaws as it was the first big p
 
 I started working on it in Jan of 2017 and worked on it for a few months before stopping this project due to the age old problem of programmers never finishing side projects.  This was about the time that I made my first Ludum Dare Game, with the confidence I had gained from this.
 
+I class this as the project that got me into backend development. I had made a couple of java games following tutorials before this one, but this game was the first completely made by me, and I set up an AWS server to handle trophies and found my passion for backend development through there, kickstarting my journey as a backend developer. My [most viewed SO question](https://stackoverflow.com/questions/43454866/message-on-my-server) also came from this project, standing at 10k views now so there is that (i got a gold SO badge for it recently!)
+
 # Origin
-The idea for The Land came from a small game I had designed a few years prior (before knowing how to write code).  I stumbled across this and was like 'Hey, I should write this properly' and then began creating it.
+The idea for The Land came from a small game I had designed a few years prior on scratch (before knowing how to write code).  I stumbled across this and was like 'Hey, I should write this properly' and then began creating it.
 
 The original version had a few different features such as 'Battle Mode' Where enimies would spawn a lot more commonly so the player could earn money faster, but for some reason this never got added.
 
